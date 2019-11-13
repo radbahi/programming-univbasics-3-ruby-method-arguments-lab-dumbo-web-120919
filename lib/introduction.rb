@@ -4,7 +4,7 @@
 # in order to complete the rest of this course and be ready for the next course!
 
 def introduction(name)
-  puts "Hi, My name is #{name}./n"
+  puts "Hi, My name is #{name}.\n"
 end
 
 
